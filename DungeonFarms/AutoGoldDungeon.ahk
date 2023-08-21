@@ -1,15 +1,26 @@
 #Persistent
+SetTitleMatchMode, 3 ; Window title must match "ANOTHER EDEN" exactly
 x = 0
 IfWinExist, ANOTHER EDEN
 { 
 WinActivate
-sleep 100
+sleep 500
+send {f down}
+sleep 50
+send {f up}
+sleep 3000
+click 1390, 180
+sleep 1000
+click 900, 550
+MsgBox, click OK after choosing your team
+sleep 2000
+click 1130, 888
+sleep 6000
 
-PixelGetColor, LocationDefiner, 554, 631, RGB
-if (LocationDefiner = 0x782C9E) {
-	
-
-
+MsgBox, 4132, , Are you on the right side of the map?, 
+sleep 8000
+IfMsgBox Yes 
+{
 	WalkLeftDown(3700)
 	WalkRightDown(2800)
 	WalkLeft(2000)
@@ -49,6 +60,7 @@ if (LocationDefiner = 0x782C9E) {
 	WalkLeft(7000)
 	}
 else {
+	sleep 1000
 	WalkRightDown(7000)
 	WalkLeft(5000)
 	sleep 2000
@@ -216,3 +228,5 @@ else if (enemy == finalBoss) {
 	return
 }
 }
+
+F12::ExitApp 
