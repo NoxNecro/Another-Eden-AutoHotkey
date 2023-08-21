@@ -8,14 +8,14 @@ IfWinExist, ANOTHER EDEN
 	WinActivate
 	sleep 1500
 	PixelGetColor, leaveButton, 1591, 127
-	PixelGetColor, sestaHair, 117, 872
+	PixelGetColor, healthBar, 409, 620
 	maxRepeats := 120
 	Checks := 0
 	sleep 1000
 
 	if (leaveButton != 0x000000) {
 		sleep 7000
-		if (sestaHair = 0xFFFFFF) { ; if in battle
+		if (healthBar = 0xA7F69B) { ; if in battle
 			sleep 500
 			send {q down}
 			sleep 50
