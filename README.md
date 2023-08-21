@@ -6,7 +6,7 @@ Auto Hotkey scripts for the JRPG "Another Eden: The Cat Beyond Time and Space"
 If you're like me and prefer playing Another Eden on Steam rather than an emulator or phone, you might have noticed the lack of functional macros available for the Steam version. 
 That's where this project comes in. Here I will be adding macros I make using Auto Hotkey. They will be available as both the original .ahk file and in .exe format.
 
-  <span style="color:blue">some *blue* text</span>.
+**!The general rule of my macros is that to stop them, you have to press F12!**
 Forgetting this can be quite annoying, especially with macros that move your mouse around and loop infinitely until stopped...
 
 If you need to contact me for any reason, feel free to do so on discord. My username is NoxNecro. 
