@@ -1,4 +1,4 @@
-### Another Eden Macros
+#Another Eden Macros
 Auto Hotkey scripts for the JRPG "Another Eden: The Cat Beyond Time and Space"
 
 ##Introduction
@@ -12,7 +12,7 @@ That's where this project comes in. Here I will be adding macros I make using Au
 
 ##.ahk or .exe
 
-# AHK (AutoHotkey Script) File:
+###.AHK File:
 
 **Positives:**
 - **Customization:** Users can easily customize the script according to their needs by modifying the code directly.
@@ -25,7 +25,7 @@ That's where this project comes in. Here I will be adding macros I make using Au
 - **Security:** Source code exposure might lead to potential security risks or misuse of the script's functionality.
 - **Complexity:** Users with limited coding experience might find it challenging to modify or troubleshoot the script.
 
-## EXE (Compiled Executable) File:
+###.EXE File:
 
 **Positives:**
 - **Portability:** Users can run the executable without needing to install AutoHotkey separately.
@@ -38,9 +38,10 @@ That's where this project comes in. Here I will be adding macros I make using Au
 - **Transparency:** Users cannot directly inspect the logic of the executable, which might raise concerns about its functionality.
 - **Debugging:** Debugging issues within the executable can be more challenging due to the lack of access to source code.
 
-## Which to Choose:
-- **AHK File:** If you want to foster a community of users who can learn from, modify, and contribute to the script, providing the AHK file is a good choice.
-- **EXE File:** If your aim is to offer a hassle-free experience for users who simply want to use the macro without any coding involvement, providing the compiled executable is preferable.
+### Which to Choose:
+- **AHK File:** If you want to learn from, modify, and/or contribute to the script, using the AHK file is a good choice.
+- **EXE File:** If your aim is to get a hassle-free experience and simply want to use the macro without any coding involvement, using the compiled executable is an option.
 
-Consider providing both options to cater to different user preferences. This way, users can choose the option that best fits their needs and level of expertise.
+###My personal Opinion
+I personally prefer using the .AHK file, as that is the one I extensively test while coding. If you need help or have an issue this is also the file I will ask you to try in case the problem lies with the .exe file instead of the program itself. In the end you'll have to choose between convinience and usability. 
 
