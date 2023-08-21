@@ -27,7 +27,11 @@ The program includes two optional sub-processes that can be removed if desired:
 
 If you possess some familiarity with AutoHotkey scripting, you'll find that the program is very easily customizable. The code has been designed with simplicity in mind, making it easy for users to make adjustments. The code is written in V1, so keep this in mind if you decide to make any changes.
 
-## Issues and Contributions
+## Installation
+
+Check out [this guide](https://github.com/NoxNecro/Another-Eden-AutoHotkey/blob/main/README.md#installation) in the main README.
+
+## Issues
 
 If you encounter any problems while using the program, feel free to open an issue on the [GitHub repository](https://github.com/NoxNecro/Another-Eden-AutoHotkey/issues). Your feedback is welcome and can help improve the program for everyone.
 
