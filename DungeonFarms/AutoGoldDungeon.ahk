@@ -32,7 +32,7 @@ IfMsgBox Yes
 	Battle(regular)
 	WalkLeftDown(2000)
 	WalkLeft(8000) 
-	Battle(boss)
+	Battle(horror)
 	WalkLeft(4000)
 	WalkRightUp(2100)
 	WalkLeftUp(2000)
@@ -50,7 +50,7 @@ IfMsgBox Yes
 	WalkLeft(5000)
 	Battle(regular)
 	WalkLeft(8000)
-	battle(boss)
+	battle(horror)
 	WalkLeft(5000)
 	WalkRightDown(5000)
 	Battle(regular)
@@ -64,7 +64,7 @@ else {
 	WalkRightDown(7000)
 	WalkLeft(5000)
 	sleep 2000
-	Battle(boss)
+	Battle(horror)
 	WalkLeft(2000)
 	WalkRightUp(3000)
 	Battle(regular)
@@ -85,7 +85,7 @@ else {
 	WalkLeft(7000)
 	Battle(regular)
 	WalkLeft(7000)
-	Battle(boss)
+	Battle(horror)
 	WalkLeft(3000)
 	WalkRightDown(4000)
 	Battle(regular)
@@ -118,7 +118,7 @@ Walkleft(4000)
 Send {y down}
 sleep 50
 Send {y up}
-Battle(boss)
+Battle(finalBoss)
 reload
 }
 
@@ -182,7 +182,7 @@ WalkRightUp(d)
 Battle(enemy)
 {
 sleep 5000
-if (enemy == boss) {
+if (enemy == horror) {
 	send {a down}
 	sleep 50
 	send {a up}
