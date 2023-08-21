@@ -3,8 +3,8 @@ Auto Hotkey scripts for the JRPG "Another Eden: The Cat Beyond Time and Space"
 
 ## Introduction
 
-If you're like me and prefer playing Another Eden on Steam rather than an emulator or mobile device, you might have noticed the lack of functional macros available for the Steam version. 
-That's where this project comes in. Here I will be adding macros I make using Auto Hotkey. They will be available as the original .ahk file and in .exe format.
+If you're like me and prefer playing Another Eden on Steam rather than an emulator or phone, you might have noticed the lack of functional macros available for the Steam version. 
+That's where this project comes in. Here I will be adding macros I make using Auto Hotkey. They will be available as both the original .ahk file and in .exe format.
 
 If you need to contact me for any reason, feel free to do so on discord. My username is NoxNecro. 
 
@@ -15,7 +15,7 @@ If you need to contact me for any reason, feel free to do so on discord. My user
 3. Open another eden and go to the place where you want to start the macro
 4. Click on the .ahk/.exe file
 
-yes, that's really how easy it is!
+ yes, that's really how easy it is!
 
 
 ## .ahk or .exe
