@@ -8,11 +8,21 @@ That's where this project comes in. Here I will be adding macros I make using Au
 
 ## Installation
 1. Download the latest version of your wanted macro [here](github.com/NoxNecro/Another-Eden-AutoHotkey/releases/latest).
-2. Choose whether you want to use
+2. Choose whether you want to use the the .ahk version or the .exe version (unsure? Check out [this summary]())
+3. Open another eden and go to the place where you want to start the macro
+4. Click on the .ahk/.exe file
+
+yes, that's really how easy it is!
+
+
+
+
 
 ## .ahk or .exe
 
-### .AHK File:
+### .ahk File:
+
+An AHK file is an uncompiled executable that does not contain a program's code and/or resources, thus needing both Auto Hotkey and potential dependencies to be installed.
 
 **Positives:**
 - **Customization:** Users can easily customize the script according to their needs by modifying the code directly.
@@ -25,23 +35,23 @@ That's where this project comes in. Here I will be adding macros I make using Au
 - **Security:** Source code exposure might lead to potential security risks or misuse of the script's functionality.
 - **Complexity:** Users with limited coding experience might find it challenging to modify or troubleshoot the script.
 
-### .EXE File:
+### .exe File:
+
+An EXE file is a compiled executable that contains a program's code and resources, allowing users to run the program without needing the original source code.
 
 **Positives:**
-- **Portability:** Users can run the executable without needing to install AutoHotkey separately.
-- **Ease of Use:** No coding or scripting knowledge is required to use the executable.
-- **Security:** The source code remains hidden, reducing the risk of unauthorized modifications.
-- **Distribution:** It's easier to distribute and share a single executable file.
+- **Portability:**  The executable can be ran without needing to install AutoHotkey separately.
+- **Ease of Use:** No coding or scripting knowledge is required to use the macro.
 
 **Negatives:**
-- **Limited Customization:** Users cannot easily modify the behavior of the executable unless provided with specific options by the developer.
-- **Transparency:** Users cannot directly inspect the logic of the executable, which might raise concerns about its functionality.
+- **Limited Customization:** The behavior of the executable can't easily be customized.
+- **Transparency:** The logic of the executable cannot be directly inspected, meaning that there is a potential of it containing malicious code. (it doesn't, but it technically could without you knowing.) .
 - **Debugging:** Debugging issues within the executable can be more challenging due to the lack of access to source code.
 
 ## Which to Choose:
-- **AHK File:** If you want to learn from, modify, and/or contribute to the script, using the AHK file is a good choice.
-- **EXE File:** If your aim is to get a hassle-free experience and simply want to use the macro without any coding involvement, using the compiled executable is an option.
+- **AHK File:** If you want to learn from, modify, and/or contribute to the script, using the AHK file or want debugging to be easier then this is the right choice.
+- **EXE File:** If your aim is to get a hassle-free experience and simply want to use the macro without anything else, using the compiled executable is an option.
 
 ###My personal Opinion
-I personally prefer using the .AHK file, as that is the one I extensively test while coding. If you need help or have an issue this is also the file I will ask you to try in case the problem lies with the .exe file instead of the program itself. In the end you'll have to choose between convinience and usability. 
+I personally prefer using the .ahk file, as that is the one I extensively test while coding. If you need help or have an issue this is also the file I will ask you to try in case the problem lies with the .exe file instead of the program itself. Aditionally, if the problem lies in the convertion between the .ahk and .exe file I won't be able to solve it nor help you, as this is automatically done by Auto Hotkey. This means that in the end you'll have to choose between convenience and practicality. 
 
