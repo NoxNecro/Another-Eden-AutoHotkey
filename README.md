@@ -1,18 +1,18 @@
-#Another Eden Macros
+# Another Eden Macros
 Auto Hotkey scripts for the JRPG "Another Eden: The Cat Beyond Time and Space"
 
-##Introduction
+## Introduction
 
 If you're like me and prefer playing Another Eden on Steam rather than an emulator or mobile device, you might have noticed the lack of functional macros available for the Steam version. 
 That's where this project comes in. Here I will be adding macros I make using Auto Hotkey. They will be available as the original .ahk file and in .exe format. If you're unsure of which version to choose, check out my summary [here](.ahk-or-.exe)
 
-##Installation
+## Installation
 1. Download the latest version of your wanted macro [here](github.com/NoxNecro/Another-Eden-AutoHotkey/releases/latest).
 2. Choose whether you want to use
 
-##.ahk or .exe
+## .ahk or .exe
 
-###.AHK File:
+### .AHK File:
 
 **Positives:**
 - **Customization:** Users can easily customize the script according to their needs by modifying the code directly.
@@ -25,7 +25,7 @@ That's where this project comes in. Here I will be adding macros I make using Au
 - **Security:** Source code exposure might lead to potential security risks or misuse of the script's functionality.
 - **Complexity:** Users with limited coding experience might find it challenging to modify or troubleshoot the script.
 
-###.EXE File:
+### .EXE File:
 
 **Positives:**
 - **Portability:** Users can run the executable without needing to install AutoHotkey separately.
@@ -38,7 +38,7 @@ That's where this project comes in. Here I will be adding macros I make using Au
 - **Transparency:** Users cannot directly inspect the logic of the executable, which might raise concerns about its functionality.
 - **Debugging:** Debugging issues within the executable can be more challenging due to the lack of access to source code.
 
-### Which to Choose:
+## Which to Choose:
 - **AHK File:** If you want to learn from, modify, and/or contribute to the script, using the AHK file is a good choice.
 - **EXE File:** If your aim is to get a hassle-free experience and simply want to use the macro without any coding involvement, using the compiled executable is an option.
 
