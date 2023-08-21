@@ -18,10 +18,12 @@ The Auto Fisher operates through the following steps:
 
 ## Additional Features
 
-The program includes two optional sub-processes that can be removed if desired:
-
+Only **AutoFish** has the following additional features:
 1. **RandomBuySell Sequence**: There is a 1/50 chance for the program to activate this sequence. It automatically takes the user to Kira Beach, where it sells all currently caught fish and purchases 50 "Snitch Sardines." Note that this costs 400 Kamasu points (50 * 8), so ensure you have sufficient points or adjust the bait amount accordingly. After buying the bait, the program randomly selects one of four locations to return to**: Vasu Mountains, Elzion Airport, Lake Tiilen, or Acteul. Once back at a fishing spot, the program restarts.
 2. **Auto-Restart**: After 180 seconds (3 minutes), the program automatically restarts itself. This feature prevents potential bugs from disrupting your AFK fishing as the program should never be active for more than 3 minutes without a restart.
+
+**AutoFish** & **SimpleFisher** have the following feature:
+1. The program will exit and enter the current pond with a 1/40 chance, giving the area a chance to refresh if it has been 30 minutes.
 
 ## Customizability
 
