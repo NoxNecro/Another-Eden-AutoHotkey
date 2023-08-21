@@ -174,7 +174,7 @@ IfWinExist, ANOTHER EDEN
 	click
 	sleep 3500
 	Loop {
-		if (Checks >= 4) {
+		if (Checks >= 6) {
 			break
 		}
 		PixelGetColor, CheckColor, 1113, 815, RGB
@@ -195,7 +195,7 @@ IfWinExist, ANOTHER EDEN
 			continue
 		}
 		checks++
-		sleep 1500
+		sleep 1000
 	}
 	sleep 500
 	reload
