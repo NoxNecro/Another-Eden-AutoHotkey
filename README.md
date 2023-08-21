@@ -25,15 +25,14 @@ yes, that's really how easy it is!
 An AHK file is an uncompiled executable that does not contain a program's code and/or resources, thus needing both Auto Hotkey and potential dependencies to be installed.
 
 **Positives:**
-- **Customization:** Users can easily customize the script according to their needs by modifying the code directly.
-- **Transparency:** The script's logic and functionality are visible in the code, allowing users to understand and verify its behavior.
-- **Learning:** Users interested in scripting can learn from the code and improve their AutoHotkey skills.
+- **Customization:** If you know Auto Hotkey and/or have programming experience, Then the script is easily customizable according to your needs by modifying the code directly.
+- **Transparency:** The script's logic and functionality are visible in the code, allowing you to understand and verify its behavior.
+- **Learning:** If you are interested in scripting, then learning from the code and improving your AutoHotkey skills is also an option.
 - **Debugging:** Issues and errors in the script are easier to diagnose and fix due to the availability of source code.
 
 **Negatives:**
-- **Dependency:** Users need to have AutoHotkey installed on their system to run the script.
-- **Security:** Source code exposure might lead to potential security risks or misuse of the script's functionality.
-- **Complexity:** Users with limited coding experience might find it challenging to modify or troubleshoot the script.
+- **Dependency:** AutoHotkey and possible dependecies are required on your system to run the script.
+- **Complexity:** If you have limited coding experience you might find it challenging to modify or troubleshoot the script.
 
 ### .exe File:
 
