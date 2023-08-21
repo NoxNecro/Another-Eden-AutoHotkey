@@ -8,7 +8,7 @@ That's where this project comes in. Here I will be adding macros I make using Au
 
 ## Installation
 1. Download the latest version of your wanted macro [here](github.com/NoxNecro/Another-Eden-AutoHotkey/releases/latest).
-2. Choose whether you want to use the the .ahk version or the .exe version (unsure? Check out [this summary]())
+2. Choose whether you want to use the the .ahk version or the .exe version (unsure? Check out [this summary](https://github.com/NoxNecro/Another-Eden-AutoHotkey/blob/main/README.md#ahk-or-exe))
 3. Open another eden and go to the place where you want to start the macro
 4. Click on the .ahk/.exe file
 
