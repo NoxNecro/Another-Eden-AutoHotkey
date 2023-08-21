@@ -47,10 +47,14 @@ An EXE file is a compiled executable that contains a program's code and resource
 - **Transparency:** The logic of the executable cannot be directly inspected, meaning that there is a potential of it containing malicious code. (it doesn't, but it technically could without you knowing.) .
 - **Debugging:** Debugging issues within the executable can be more challenging due to the lack of access to source code.
 
-## Which to Choose:
+### Which to Choose:
 - **AHK File:** If you want to learn from, modify, and/or contribute to the script, using the AHK file or want debugging to be easier then this is the right choice.
 - **EXE File:** If your aim is to get a hassle-free experience and simply want to use the macro without anything else, using the compiled executable is an option.
 
 ###My personal Opinion
 I personally prefer using the .ahk file, as that is the one I extensively test while coding. If you need help or have an issue this is also the file I will ask you to try in case the problem lies with the .exe file instead of the program itself. Aditionally, if the problem lies in the convertion between the .ahk and .exe file I won't be able to solve it nor help you, as this is automatically done by Auto Hotkey. This means that in the end you'll have to choose between convenience and practicality. 
+
+## License
+This project is released under the GNU General Public License v3.0. 
+ 
 
