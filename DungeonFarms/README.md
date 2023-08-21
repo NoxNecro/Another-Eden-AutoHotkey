@@ -9,7 +9,6 @@ Everyone who knows how to install Auto Hotkey and open text files is able to mak
 If you're interested in creating a Dungeon macro on your own check out [this guide](https://github.com/NoxNecro/Another-Eden-AutoHotkey/blob/main/DungeonFarms/Creating%20A%20Dungeon%20Macro.txt).
 If you have created a Dungeon Macro and extensively tested it, feel free to make a pull request on my github page so everyone can use it!
 
-
 My Dungeon Farming scripts assume that you are able to one or two shot all regular enemies at once and are able to kill the boss in one turn. Otherwise you'll fall behind the macro and it won't work like intended.
 
 **This program assumes your attack key is "a"** if it isn't, consider changing it to "a" for the duration of your dungeon farming, or change the script.
