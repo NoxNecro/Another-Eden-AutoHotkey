@@ -43,7 +43,6 @@ IfWinExist, ANOTHER EDEN
 		sleep 750
 	}
 
-
 	RandomInOut: ; 1/25 chance to leave and re-enter pond for if 30 minutes have passed (meaning pond can refresh) but the program hasn't switched location yet
 	random, inOut, 1, 25
 	if (inOut = 1) {
@@ -53,99 +52,7 @@ IfWinExist, ANOTHER EDEN
 		sleep 50
 		send {f up}
 		reload
-	}
-
-	RandomSellBuy:
-	random, sellBuy, 1, 50
-	if (sellBuy = 1) {
-		sleep 3000
-		click 1595, 132 ; teleport button
-		sleep 2500
-		loop, 50 {
-		send {WheelDown 2}
-		sleep 50
-		}
-		sleep 500
-		click 1200, 300 ; kira beach
-		sleep 500
-		click 400, 930 ; go button	
-		sleep 5000
-		click 1330, 375 ; sell button
-		sleep 2000
-		click 
-		sleep 100
-		click 
-		sleep 100
-		click
-		sleep 500
-		click 850, 930 ; sell fish ok button
-		sleep 2000
-		loop, 50 {
-		send {WheelDown 2}
-		sleep 50
-		}
-		sleep 750
-		click 1100, 475 ; Snitch Sardines
-		sleep 250
-		Loop, 50 {
-			click 550, 700 ; Fish amount up arrow
-			sleep 50
-		}
-		click 350, 900 ; Buy
-		sleep 250
-		click 1000, 700 ; Confirm buy
-		sleep 350
-		click 850, 630 ; Purchase complete "ok"
-		sleep 750
-		send {Escape down}
-		sleep 100
-		send {Escape up}
-		sleep 100
-		send {f down}
-		sleep 100
-		send {f up}
-		sleep 1500
-		click 1595, 132 ; teleport
-		sleep 750
-		random, FishingLocation, 1, 4
-		if (FishingLocation = 1) {
-			sleep 1500
-			Loop, 15 {
-			send, {WheelDown 2}
-			}
-			sleep 1000
-			click 1200, 240 ; vasu mountains
-			sleep 1000
-		}
-		else if (FishingLocation = 2) {
-			click 1200, 700 ; elzion airport
-			sleep 1000
-		}
-		else if (FishingLocation = 3) {
-			Loop, 15 {
-			send, {WheelDown 2}
-			}
-			sleep 1000
-			click 1200, 400 ;lake tiilen
-			sleep 1000
-		}
-		else if (FishingLocation = 4) {
-			Loop, 15 {
-			send, {WheelDown 2}
-			}
-			sleep 1000
-			click 1000, 550 ; acteul
-			sleep 1000
-		}
-		click 400, 930 ; go button	
-		sleep 5000
-		send {f down}
-		sleep 100
-		send {f up}
-		sleep 2000
-		reload
-	}
-
+	}	
 		
 	RandomSpot:
 		sleep 1000
