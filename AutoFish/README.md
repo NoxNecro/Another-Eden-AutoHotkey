@@ -29,7 +29,7 @@ If you possess some familiarity with AutoHotkey scripting, you'll find that the 
 
 ## Installation
 
-Check out [this guide](https://github.com/NoxNecro/Another-Eden-AutoHotkey/blob/main/README.md#installation) in the main README, or alternatively go to the latest releases [here](https://github.com/NoxNecro/Another-Eden-AutoHotkey/releases/latest)
+Check out [this guide](https://github.com/NoxNecro/Another-Eden-AutoHotkey/blob/main/README.md#installation) in the main README, or alternatively go to the latest releases [here](https://github.com/NoxNecro/Another-Eden-AutoHotkey/releases/latest).
 
 ## Issues
 
