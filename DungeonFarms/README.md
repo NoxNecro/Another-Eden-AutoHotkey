@@ -6,7 +6,7 @@ These Dungeon Farmers are developed by NoxNecro (me) for automating another dung
 
 There is no real step by step plan that every Dungeon Farm script follows. All of them, however, use a variety of functions to make creating macros for dungeons easier. 
 Everyone who knows how to install Auto Hotkey and open text files is able to make their own Dungeon macros. 
-If you're interested in creating a Dungeon macro on your own check out [this guide](https://github.com/NoxNecro/Another-Eden-AutoHotkey/blob/main/Guide/Ceating%20A%20Dungeon%20Macro.md), written by me!
+If you're interested in creating a Dungeon macro on your own check out [this guide](https://github.com/NoxNecro/Another-Eden-AutoHotkey/blob/main/Guide/Creating%20A%20Dungeon%20Macro.md), written by me!
 If you have created a Dungeon Macro and extensively tested it, feel free to make a pull request on my github page so everyone can use it!
 
 My Dungeon Farming scripts assume that you are able to one or two shot all regular enemies at once and are able to kill the boss in one turn. Otherwise you'll fall behind the macro and it won't work like intended.
@@ -16,7 +16,7 @@ My Dungeon Farming scripts assume that you are able to one or two shot all regul
 ## Customizability
 
 If you possess some familiarity with AutoHotkey scripting or programming in general, you'll find that the program is very easily customizable. The code has been designed with simplicity in mind, making it easy for users to make adjustments. The code is written in V1, so keep this in mind if you do decide to make any changes.
-A helpful guide to customizing or creating new dungeon farm scripts can be found [here](https://github.com/NoxNecro/Another-Eden-AutoHotkey/blob/main/Guide/Ceating%20A%20Dungeon%20Macro.md).
+A helpful guide to customizing or creating new dungeon farm scripts can be found [here](https://github.com/NoxNecro/Another-Eden-AutoHotkey/blob/main/Guide/Creating%20A%20Dungeon%20Macro.md).
 
 ## Installation
 
