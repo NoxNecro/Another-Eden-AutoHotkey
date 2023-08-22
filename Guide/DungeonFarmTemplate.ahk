@@ -5,11 +5,14 @@ IfWinExist, ANOTHER EDEN
 {
 WinActivate ; Open the ANOTHER EDEN window
 
-;The following code is example code and can be removed when you're creating your own macro 
+;The following code is an example and can be replaced with your own code when you're creating your own macro 
 WalkLeft(1000)
 WalkRight(1500)
 WalkDownRight(200)
 }
+
+; Below here are the functions that you can call in the above code. These will only activate if you do call them as seen above. Try it out by running the program!
+
 
 WalkRight(b)
 {
