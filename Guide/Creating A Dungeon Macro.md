@@ -123,7 +123,7 @@ Do keep in mind that every function you tell the computer to do has to be in you
 ### Creating the macro + TL;DR
 
 So now that we know how to use functions, the rest shouldn't be hard.
-[Here]() is a template for a dungeon macro that has all the functions I use in it at the bottom.
+[Here](https://github.com/NoxNecro/Another-Eden-AutoHotkey/blob/main/Guide/DungeonFarmTemplate.ahk) is a template for a dungeon macro that has all the functions I use in it at the bottom.
 Here is a list of them with explanations: 
 WalkLeft(a) => Walks to the left for "a" amount of miliseconds
 WalkRight(b) => Walks to the right for "b" amount of miliseconds
@@ -187,6 +187,8 @@ And that concludes this guide on creating Another Dungeon macros!
 I recommend checking out the AutoGoldDungeon.ahk file in the releases section to get a feel of creating macros like it, and if you understand what it does I'd say you're ready to make some macros yourself!
 Another recommendation I can not stress enough is to get an actual good text editor (**NOT** the default "notepad").
 If you're only planning on creating dungeon macros I'd recommend [Notepad++](https://notepad-plus-plus.org/downloads/) which is what I use to create my macros.
+
+Once again, there is a [template](https://github.com/NoxNecro/Another-Eden-AutoHotkey/blob/main/Guide/DungeonFarmTemplate.ahk) that contains all functions I mentioned above for a quickstart if you'd like to use it. (Which I do recommend, atleast for the first few times)
 
 
 Goodluck with creating macros and don't forget to like and sub- ...wait a second this isn't youtube!
