@@ -184,7 +184,7 @@ So now just keep repeating that process until you've finished the entire dungeon
 ## Conclusion
 
 And that concludes this guide on creating Another Dungeon macros! 
-I recommend checking out the .ahk file to understand, and if you understand what it does I'd say you're ready to make some macros yourself!
+I recommend checking out the AutoGoldDungeon.ahk file in the releases section to get a feel of creating macros like it, and if you understand what it does I'd say you're ready to make some macros yourself!
 Another recommendation I can not stress enough is to get an actual good text editor (**NOT** the default "notepad").
 If you're only planning on creating dungeon macros I'd recommend [Notepad++](https://notepad-plus-plus.org/downloads/) which is what I use to create my macros.
 
