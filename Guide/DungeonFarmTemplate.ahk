@@ -11,6 +11,9 @@ WalkRight(1500)
 WalkDownRight(200)
 }
 
+; Below here are the functions that you can call in the above code. These will only activate if you do call them as seen above. Try it out by running the program!
+
+
 WalkRight(b)
 {
 	send {d down }
