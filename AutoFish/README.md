@@ -39,4 +39,9 @@ If you encounter any problems while using the program, feel free to open an issu
 
 Happy AFK fishing!
 
+## Showcase
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=zuKLEm0CVoI
+" target="_blank"><img src="http://img.youtube.com/vi/zuKLEm0CVoI/0.jpg" 
+alt="Automatic fishing showcase" width="240" height="180" border="10" /></a>
+
 **Disclaimer**: This program is provided as-is, and the developer is not responsible for any consequences that may arise from its use. Use at your own discretion.
