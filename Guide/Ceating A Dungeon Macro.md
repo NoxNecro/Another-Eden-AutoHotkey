@@ -148,7 +148,7 @@ which is a lot easier and requires way less tweaking.
 
 ## Example
 
-When I made the macro for the "Transitory Time Space" dungeon (which is quite large) I first downloaded the map of the dungeon: 
+When I made the macro for the "Ephemeral Time Space" dungeon (which is quite large) I first downloaded the map of the dungeon: 
 ![](minimap.png)
 And made a route I wanted to follow:
 ![](minimap_route.jpg)
