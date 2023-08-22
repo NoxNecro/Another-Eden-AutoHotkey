@@ -49,5 +49,5 @@ alt="Automatic fishing showcase" width="240" height="180" border="10" /></a>
 
 **Disclaimer**: This program is provided as-is, and the developer is not responsible for any consequences that may arise from its use. Use at your own discretion.
 
-[^1] It's very hard to detect the fish itself as the fishing areas themself constantly change color because of the water, so atleast for now I'll have to do with randomly choosing a spot to throw the hook at.
-[^2] If you know a little about Auto Hotkey you can change the locations, but I'm currently in the process of rewriting this code so it's easier to change. 
+[^1]:  It's very hard to detect the fish itself as the fishing areas themself constantly change color because of the water, so atleast for now I'll have to do with randomly choosing a spot to throw the hook at.  
+[^2]:  If you know a little about Auto Hotkey you can change the locations, but I'm currently in the process of rewriting this code so it's easier to change. 
