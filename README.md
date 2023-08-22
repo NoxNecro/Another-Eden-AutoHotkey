@@ -9,7 +9,9 @@ That's where this project comes in. Here I will be adding macros I make using Au
 **!The general rule of my macros is that to stop them, you have to press F12!**
 Forgetting this can be quite annoying, especially with macros that move your mouse around and loop infinitely until stopped...
 
-If you need to contact me for any reason, feel free to do so on discord. My username is NoxNecro. 
+If you'd like to create macros on your own I wrote a guide about that [here](https://github.com/NoxNecro/Another-Eden-AutoHotkey/blob/main/Guide/Creating%20A%20Dungeon%20Macro.md) that teaches you how to create those for Another Dungeons. After getting some experience with that figuring out the reset using the [Auto Hotkey documentation](https://www.autohotkey.com/docs/) shouldn't be too hard!
+
+If you need to contact me for any reason, feel free to do so on discord. My username there is NoxNecro. 
 
 
 ## Installation
